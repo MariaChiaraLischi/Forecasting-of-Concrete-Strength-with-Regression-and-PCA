@@ -1,4 +1,4 @@
-# Quantitative-Models-for-Data-Science
+# Quantitative Models for Data Science Project
 This project was completed as part of the coursework for the course Quantitative Models for Data Science during the Bachelor’s degree program in Management and Computer Science at Luiss Guido Carli University.
 
 This project aimed to predict the compressive strength of concrete using measurements of its ingredients: cement, water, coarse aggregate, and fine aggregate. Initially, individual linear models were built for each ingredient, revealing weak predictive power and limited linearity, with cement as the best regressor. A multivariate model including all ingredients improved predictions, followed by polynomial models for cement and water. Principal Component Analysis showed that two principal components captured over 82% of the dataset’s variance, highlighting the significant roles of cement and aggregate components.
